@@ -1,3 +1,20 @@
 .sidebar-link-extra {
     color: red;
 }
+
+#background-1 {
+    background-color: bisque;
+    height: 300px;
+    margin: 50px 50px;
+}
+
+#background-2 {
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+
+#paragraph {
+    text-align: center;
+    font-size: 30px;
+}
